@@ -1,9 +1,7 @@
 # 💫 Hey 👋, I am Alam  
 🚀 Full-Stack Developer • I build web apps that scale.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/faqre-alam-143486299/)  
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail)](mailto:alam014916@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/itsalam149)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/faqre-alam-143486299/)  [![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail)](mailto:alam014916@gmail.com)  [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/itsalam149)
 
 ---
 
@@ -33,10 +31,6 @@ Building AI-powered apps • Scalable full-stack solutions • Improving DSA ski
 *"Good software solves problems. Great software solves them beautifully."*
 
 ---
-
-## 📈 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=tokyonight)
 
 ---
 
