@@ -21,7 +21,6 @@
 🧠 Languages:       JavaScript • TypeScript • C++ • Python • Java
 ⚙️ Backend:         Node.js • Express.js • MongoDB • Firebase
 🎨 Frontend:        HTML • CSS • Tailwind CSS • React • Next.js
-📱 Mobile:          React Native (basic) • Expo
 🔍 Tools:           Git • GitHub • VSCode • Postman • Figma
 ☁️ Deployment:     Vercel • Netlify
 ```
