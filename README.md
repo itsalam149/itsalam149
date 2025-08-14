@@ -18,7 +18,7 @@
 
 ### 🛠️ **Tech Stack**
 ```yaml
-🧠 Languages:       JavaScript • TypeScript • C++ • Python • Java
+🧠 Languages:       JavaScript • TypeScript • C++ • Python
 ⚙️ Backend:         Node.js • Express.js • MongoDB • Firebase
 🎨 Frontend:        HTML • CSS • Tailwind CSS • React • Next.js
 🔍 Tools:           Git • GitHub • VSCode • Postman • Figma
